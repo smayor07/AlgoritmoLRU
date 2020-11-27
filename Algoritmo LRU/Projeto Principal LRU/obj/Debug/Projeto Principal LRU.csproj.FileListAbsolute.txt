@@ -1,0 +1,19 @@
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.exe.config
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.exe
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.pdb
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto_Principal_LRU.FrmPrincipal.resources
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto_Principal_LRU.Properties.Resources.resources
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.csproj.GenerateResource.cache
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.exe
+C:\Users\smayo\Desktop\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.pdb
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.exe.config
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.exe
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\bin\Debug\Projeto Principal LRU.pdb
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto_Principal_LRU.FrmPrincipal.resources
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto_Principal_LRU.Properties.Resources.resources
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.csproj.GenerateResource.cache
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.exe
+C:\Users\smayo\Desktop\Arquivos Pessoais\Meus Documentos\Unifenas\4º PERÍODO\Sistemas Operacionais\Algoritmo LRU\Projeto Principal LRU\obj\Debug\Projeto Principal LRU.pdb
